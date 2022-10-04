@@ -1,3 +1,5 @@
 # Personal Project
-Conway's Game of Life clone in Javascript
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+Description: Conway's Game of Life clone in Javascript
+Demo Video below!
+
+[![Watch the video](https://i.imgur.com/mGpwGN1.png)](https://youtu.be/mhHGXf31JdQ)
